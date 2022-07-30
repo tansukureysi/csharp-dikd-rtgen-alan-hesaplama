@@ -1,0 +1,17 @@
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\bin\Debug\net6.0-windows\alanhesaplama.exe
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\bin\Debug\net6.0-windows\alanhesaplama.deps.json
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\bin\Debug\net6.0-windows\alanhesaplama.runtimeconfig.json
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\bin\Debug\net6.0-windows\alanhesaplama.dll
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\bin\Debug\net6.0-windows\alanhesaplama.pdb
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\alanhesaplama.csproj.AssemblyReference.cache
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\alanhesaplama.Form1.resources
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\alanhesaplama.csproj.GenerateResource.cache
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\alanhesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\alanhesaplama.AssemblyInfoInputs.cache
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\alanhesaplama.AssemblyInfo.cs
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\alanhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\alanhesaplama.dll
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\refint\alanhesaplama.dll
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\alanhesaplama.pdb
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\alanhesaplama.genruntimeconfig.cache
+C:\Users\niyaz\source\repos\alanhesaplama\alanhesaplama\obj\Debug\net6.0-windows\ref\alanhesaplama.dll
